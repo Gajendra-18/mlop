@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/cheli/mlruns/0/496a54ec1a4c46c2920e1a90ed2d4006/artifacts
+end_time: 1730113673978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 496a54ec1a4c46c2920e1a90ed2d4006
+run_name: gentle-flea-172
+run_uuid: 496a54ec1a4c46c2920e1a90ed2d4006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730113668148
+status: 4
+tags: []
+user_id: CRM-SUPPORT1
